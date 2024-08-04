@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/B-planet-project/static/css/main.e6c13ad2.css",
+    "main.js": "/B-planet-project/static/js/main.251e3217.js",
+    "static/js/453.51aa48f6.chunk.js": "/B-planet-project/static/js/453.51aa48f6.chunk.js",
+    "static/media/default-image.jpg": "/B-planet-project/static/media/default-image.9ab52ffecb29a1e8f46a.jpg",
+    "static/media/hero image 2.png": "/B-planet-project/static/media/hero image 2.5b7a2eba9b6707523318.png",
+    "static/media/Hero image 1.png": "/B-planet-project/static/media/Hero image 1.6b3b63436e6091445dfa.png",
+    "static/media/Login in page image.png": "/B-planet-project/static/media/Login in page image.840b16884f24f039b7ac.png",
+    "static/media/image 18.png": "/B-planet-project/static/media/image 18.392db54b7b832f95ec3f.png",
+    "static/media/image 19.png": "/B-planet-project/static/media/image 19.c28094999f34ec42b2cc.png",
+    "static/media/image 11.png": "/B-planet-project/static/media/image 11.5e41558a3ebcf4941d3b.png",
+    "static/media/image 8.png": "/B-planet-project/static/media/image 8.37aee8fce4b095b82aa4.png",
+    "static/media/image 6.png": "/B-planet-project/static/media/image 6.c7d675281eed48208d6b.png",
+    "static/media/image 3.png": "/B-planet-project/static/media/image 3.aefc0b20b400221de91b.png",
+    "static/media/image 10.png": "/B-planet-project/static/media/image 10.b602dca542dd2760091e.png",
+    "static/media/image 2.png": "/B-planet-project/static/media/image 2.2393faf7587912ba6706.png",
+    "static/media/image 5.png": "/B-planet-project/static/media/image 5.260db7a2668119fbc23f.png",
+    "static/media/image 17.png": "/B-planet-project/static/media/image 17.4f44af30b9abff8131a3.png",
+    "static/media/image 1.png": "/B-planet-project/static/media/image 1.a9030ff1feba8b4daff1.png",
+    "static/media/image 4.png": "/B-planet-project/static/media/image 4.a4f99e52c01d722e512f.png",
+    "static/media/image 14-1.png": "/B-planet-project/static/media/image 14-1.30a67db2a482dd7b2e10.png",
+    "static/media/image 7.png": "/B-planet-project/static/media/image 7.92bec972a0497ac5c775.png",
+    "index.html": "/B-planet-project/index.html",
+    "main.e6c13ad2.css.map": "/B-planet-project/static/css/main.e6c13ad2.css.map",
+    "main.251e3217.js.map": "/B-planet-project/static/js/main.251e3217.js.map",
+    "453.51aa48f6.chunk.js.map": "/B-planet-project/static/js/453.51aa48f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.251e3217.js"
+  ]
+}
