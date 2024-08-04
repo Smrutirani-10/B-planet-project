@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/B-planet-project/static/css/main.e6c13ad2.css",
-    "main.js": "/B-planet-project/static/js/main.251e3217.js",
+    "main.js": "/B-planet-project/static/js/main.77f1d2ee.js",
     "static/js/453.51aa48f6.chunk.js": "/B-planet-project/static/js/453.51aa48f6.chunk.js",
     "static/media/default-image.jpg": "/B-planet-project/static/media/default-image.9ab52ffecb29a1e8f46a.jpg",
     "static/media/hero image 2.png": "/B-planet-project/static/media/hero image 2.5b7a2eba9b6707523318.png",
@@ -23,11 +23,11 @@
     "static/media/image 7.png": "/B-planet-project/static/media/image 7.92bec972a0497ac5c775.png",
     "index.html": "/B-planet-project/index.html",
     "main.e6c13ad2.css.map": "/B-planet-project/static/css/main.e6c13ad2.css.map",
-    "main.251e3217.js.map": "/B-planet-project/static/js/main.251e3217.js.map",
+    "main.77f1d2ee.js.map": "/B-planet-project/static/js/main.77f1d2ee.js.map",
     "453.51aa48f6.chunk.js.map": "/B-planet-project/static/js/453.51aa48f6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.251e3217.js"
+    "static/js/main.77f1d2ee.js"
   ]
 }
